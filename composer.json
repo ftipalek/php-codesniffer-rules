@@ -1,11 +1,23 @@
 {
-    "require-dev": {
-        "slevomat/coding-standard": "~8.25.0",
-        "squizlabs/php_codesniffer": "~4.0.0"
-    },
+    "name": "ftipalek/php-codesniffer-rules",
+    "description": "PHP CodeSniffer custom rules",
+    "type": "library",
     "config": {
         "allow-plugins": {
             "dealerdirect/phpcodesniffer-composer-installer": true
-        }
+        },
+        "platform": {
+            "php": "8.4"
+        },
+        "sort-packages": true,
+        "vendor-dir": "vendor"
+    },
+    "license": "proprietary",
+    "require": {
+        "php": "~8.4.0"
+    },
+    "require-dev": {
+        "slevomat/coding-standard": "~8.25.0",
+        "squizlabs/php_codesniffer": "~4.0.0"
     }
 }
