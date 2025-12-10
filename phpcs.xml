@@ -317,7 +317,7 @@
 
 	<rule ref="SlevomatCodingStandard.PHP.ReferenceSpacing">
 		<properties>
-			<property name="spacesCountAfterReference" value="1" />
+			<property name="spacesCountAfterReference" value="0" />
 		</properties>
 	</rule>
 	<rule ref="SlevomatCodingStandard.PHP.ShortList" />
