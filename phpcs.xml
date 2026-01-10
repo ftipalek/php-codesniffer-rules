@@ -2,7 +2,7 @@
 <ruleset name="ftipalek/php-codesniffer-rules">
 	<description>ftipalek/php-codesniffer-rules</description>
 	<config name="installed_paths" value="../../slevomat/coding-standard" />
-	<config name="php_version" value="80400"/>
+	<config name="php_version" value="80500"/>
 
 	<exclude-pattern>*/vendor/*</exclude-pattern>
 	<exclude-pattern>*/libs/*</exclude-pattern>

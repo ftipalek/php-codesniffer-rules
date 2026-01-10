@@ -7,14 +7,14 @@
             "dealerdirect/phpcodesniffer-composer-installer": true
         },
         "platform": {
-            "php": "8.4"
+            "php": "8.5"
         },
         "sort-packages": true,
         "vendor-dir": "vendor"
     },
     "license": "proprietary",
     "require": {
-        "php": "~8.4.0"
+        "php": "~8.5.0"
     },
     "require-dev": {
         "slevomat/coding-standard": "~8.25.0",
