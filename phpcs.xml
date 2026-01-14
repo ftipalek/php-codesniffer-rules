@@ -204,6 +204,7 @@
 					@param-immediately-invoked-callable,
 					@return,
 					@throws,
+					@phpstan-ignore,
 					@phpstan-pure,
 				" />
 				<element value="
